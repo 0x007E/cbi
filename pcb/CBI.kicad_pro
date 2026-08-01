@@ -658,14 +658,8 @@
         },
         {
           "group_by": false,
-          "label": "Vendor",
-          "name": "Vendor",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "VendorId",
-          "name": "VendorId",
+          "label": "HTL",
+          "name": "HTL",
           "show": true
         },
         {
@@ -685,6 +679,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey",
+          "name": "DigiKey",
+          "show": true
         }
       ],
       "filter_string": "",
